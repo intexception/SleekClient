@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "viaversion",
+        "name": "ViaVersion",
+        "version": "4.1.2-SNAPSHOT",
+        "description": "Allow newer clients to join older server versions.",
+        "authorList": [
+            "_MylesC",
+            "creeper123123321",
+            "Gerrygames",
+            "kennytv",
+            "Matsv"
+        ],
+        "logoFile": "assets/viaversion/textures/logo.png"
+    }
+]

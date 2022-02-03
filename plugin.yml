@@ -1,0 +1,12 @@
+name: ViaVersion
+main: com.viaversion.viaversion.ViaVersionPlugin
+authors: [_MylesC, creeper123123321, Gerrygames, kennytv, Matsv]
+version: 4.1.2-SNAPSHOT
+description: Allow newer clients to join older server versions.
+api-version: 1.13
+loadbefore: [ProtocolLib, ProxyPipe, SpigotLib, SkinRestorer]
+softdepend: [ProtocolSupport, PacketListenerApi]
+commands:
+  viaversion:
+    description: Shows ViaVersion Version and more.
+    aliases: [viaver, vvbukkit]

@@ -1,0 +1,5 @@
+name: ViaVersion
+main: com.viaversion.viaversion.BungeePlugin
+description: Allow newer clients to join older server versions.
+author: _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+version: 4.1.2-SNAPSHOT

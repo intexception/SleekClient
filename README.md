@@ -1,4 +1,5 @@
 # SleekClient
 Official repository of Sleek Client.
 
-We align update dates to Sleek release dates.
+We commit once Sleek updates.
+Any contributions are highly welcomed.
